@@ -11,19 +11,19 @@ Layout for server application.
 This is the database Layout.
 
 For table Books - 
-![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/Books.PNG)
+![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/Books.png)
 
 For table records - 
-![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/records.PNG)
+![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/records.png)
 
 For table users - 
-![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/users.PNG)
+![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/users.png)
 
 For table students - 
-![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/students.PNG)
+![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/students.png)
 
 for table teachers - 
-![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/teachers.PNG)
+![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/teachers.png)
 
 For detail information i have included the Document 
 link.
