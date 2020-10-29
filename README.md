@@ -30,5 +30,4 @@ for table teachers -
 
 ![Layout](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Images/teachers.png)
 
-For detail information i have included the Document 
-link.
+For detail information i have included the Document [Link](https://github.com/VijayLalwani/B.K.B.C.E-Library/blob/master/Library%20management.pdf)
